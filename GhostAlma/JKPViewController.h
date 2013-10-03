@@ -9,5 +9,8 @@
 #import <UIKit/UIKit.h>
 
 @interface JKPViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UIImageView *ghostImage;
+- (IBAction)sliderDidChange:(id)sender;
+@property (weak, nonatomic) IBOutlet UILabel *sliderText;
 
 @end

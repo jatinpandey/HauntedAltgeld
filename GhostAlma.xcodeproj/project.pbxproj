@@ -18,6 +18,8 @@
 		4C93E13817FD01AA004717E1 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C93E13717FD01AA004717E1 /* Default-568h@2x.png */; };
 		4C93E13B17FD01AA004717E1 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C93E13917FD01AA004717E1 /* MainStoryboard.storyboard */; };
 		4C93E13E17FD01AA004717E1 /* JKPViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C93E13D17FD01AA004717E1 /* JKPViewController.m */; };
+		4C93E14517FD033C004717E1 /* altgeld.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4C93E14417FD033C004717E1 /* altgeld.jpeg */; };
+		4C93E14717FD0398004717E1 /* ghost.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4C93E14617FD0398004717E1 /* ghost.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,8 @@
 		4C93E13A17FD01AA004717E1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		4C93E13C17FD01AA004717E1 /* JKPViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JKPViewController.h; sourceTree = "<group>"; };
 		4C93E13D17FD01AA004717E1 /* JKPViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JKPViewController.m; sourceTree = "<group>"; };
+		4C93E14417FD033C004717E1 /* altgeld.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = altgeld.jpeg; sourceTree = "<group>"; };
+		4C93E14617FD0398004717E1 /* ghost.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ghost.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +91,8 @@
 				4C93E13117FD01AA004717E1 /* JKPAppDelegate.m */,
 				4C93E13917FD01AA004717E1 /* MainStoryboard.storyboard */,
 				4C93E13C17FD01AA004717E1 /* JKPViewController.h */,
+				4C93E14417FD033C004717E1 /* altgeld.jpeg */,
+				4C93E14617FD0398004717E1 /* ghost.jpeg */,
 				4C93E13D17FD01AA004717E1 /* JKPViewController.m */,
 				4C93E12817FD01AA004717E1 /* Supporting Files */,
 			);
@@ -164,6 +170,8 @@
 				4C93E13617FD01AA004717E1 /* Default@2x.png in Resources */,
 				4C93E13817FD01AA004717E1 /* Default-568h@2x.png in Resources */,
 				4C93E13B17FD01AA004717E1 /* MainStoryboard.storyboard in Resources */,
+				4C93E14517FD033C004717E1 /* altgeld.jpeg in Resources */,
+				4C93E14717FD0398004717E1 /* ghost.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
